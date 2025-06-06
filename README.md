@@ -45,14 +45,6 @@ Este projeto apresenta um sistema completo chamado **ML Integrator**, idealizado
 - 📊 Barras de progresso com feedback visual
 
 
-
-📁 Estrutura do Projeto
-
-├── index.html # Estrutura principal da aplicação
-├── style.css # Estilos globais, responsividade e animações
-├── script.js # Lógica de navegação, login, formulários e interações
-└── README.md # Documentação do projeto
-
 📱 Responsividade
 
 Desenvolvido com abordagem **Mobile First**, adaptando-se a:
