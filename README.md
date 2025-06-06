@@ -4,13 +4,13 @@ Uma plataforma web moderna e responsiva que simula a integração entre forneced
 
 
 
-📋 Sobre o Projeto
+## 📋 Sobre o Projeto
 
 Este projeto apresenta um sistema completo chamado **ML Integrator**, idealizado para conectar fornecedores a plataformas de e-commerce como o Mercado Livre. Inclui uma interface de login moderna, autenticação simulada, gerenciamento de fornecedores, sincronização de produtos e painel com estatísticas visuais.
 
 
 
-✨ Funcionalidades
+## ✨ Funcionalidades
 
 - 🔐 **Tela de Login/Cadastro** com abas interativas
 - 📊 **Dashboard** com métricas de vendas, produtos e tempo de sincronização
@@ -23,7 +23,7 @@ Este projeto apresenta um sistema completo chamado **ML Integrator**, idealizado
 
 
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **HTML5** - Estrutura semântica
 - **CSS3** - Estilização responsiva com Flexbox e Grid
@@ -33,7 +33,7 @@ Este projeto apresenta um sistema completo chamado **ML Integrator**, idealizado
 
 
 
-🎨 Características Visuais
+## 🎨 Características Visuais
 
 - 🎨 Interface limpa com fundo em degradê azul-claro
 - 📱 Totalmente **responsivo** (mobile, tablet, desktop)
@@ -45,7 +45,7 @@ Este projeto apresenta um sistema completo chamado **ML Integrator**, idealizado
 - 📊 Barras de progresso com feedback visual
 
 
-📱 Responsividade
+## 📱 Responsividade
 
 Desenvolvido com abordagem **Mobile First**, adaptando-se a:
 
@@ -55,15 +55,15 @@ Desenvolvido com abordagem **Mobile First**, adaptando-se a:
 - 🖥️ Telas grandes (1440px+)
 
 
-🚀 Como Executar
+## 🚀 Como Executar
 
 1. Faça o download ou clone o repositório:
    ```bash
    git clone https://github.com/seuusuario/ml-integrator.git
    
-📝 Licença
+## 📝 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-👤 Autor
-Projeto desenvolvido por: Jairo Rocha
-Orientador: Luan Oliveira
+## 👤 Autor
+ - Projeto desenvolvido por: Jairo Rocha
+ - Orientador: Luan Oliveira
